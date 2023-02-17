@@ -1,5 +1,5 @@
 # Introduction
-<img src = 'https://github.com/MorbeusDesign/PythonForBeginners/friendsAtRestaurant.jpg' alt = 'Welcome to our Restaurant' />
+<img src = 'https://github.com/MorbeusDesign/PythonForBeginners/blob/master/friendsAtRestaurant.jpg' alt = 'Welcome to our Restaurant' />
 This Python project is designed to help beginner developers practice their skills by building a simple program that calculates the cost of a lunch at a restaurant, including tip and dividing the total cost by the number of people in a group. The project includes a step-by-step guide to building the program, as well as sample code to help you get started.
 
 ## Step-by-Step Guide
