@@ -1,4 +1,4 @@
-Print("Welcome to our Restaurant...")
+print("Welcome to our Restaurant...")
 # Get input from the user
 num_people = int(input("How many People are in your Group? "))
 # Ask user to choose a currency
@@ -24,4 +24,4 @@ cost_per_person = total_cost / num_people
 print(f"The Total Cost of the Lunch is {total_cost:.2f}{currency}")
 print(f"The Tip amount is {tip_amount:.2f}{currency}")
 print(f"The Cost per Person is {cost_per_person:.2f}{currency}")
-print("Thank you for visiting our restaurant! We hope you enjoyed your meal.")
+print("Thank you for visiting our restaurant! We hope you enjoyed your Lunch.")
