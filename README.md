@@ -45,6 +45,8 @@ print(f"The cost per person is {cost_per_person:.2f}")
 
 This code uses string formatting to display the results to the user with two decimal places. The f-string syntax (the f before the opening quote) allows us to insert variables and expressions directly into the string.
 
+<a><img src="https://github.com/MorbeusDesign/PythonForBeginners/blob/master/restaurantBillCalc.gif"></a>&nbsp;
+
 # Conclusion
 This project is a simple but effective way for beginner Python developers to practice their skills and build a useful program. By following the step-by-step guide and experimenting with the sample code, you'll learn how to prompt the user for input, perform calculations, and display results. Good luck, and happy coding!
 
