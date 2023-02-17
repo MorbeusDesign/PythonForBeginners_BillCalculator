@@ -48,13 +48,10 @@ This code uses string formatting to display the results to the user with two dec
 ## Conclusion
 This project is a simple but effective way for beginner Python developers to practice their skills and build a useful program. By following the step-by-step guide and experimenting with the sample code, you'll learn how to prompt the user for input, perform calculations, and display results. Good luck, and happy coding!
 
-<img src = 'https://github.com/MorbeusDesign/MorbeusDesign/blob/main/MyGif_Home.gif' alt = 'Welcome from Morbeus' />
-<a href="https://www.buymeacoffee.com/Morbeus"><img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" align="right" width="300" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/Morbeus"><img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" align="right" width="200" /></a>&nbsp;
 <img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="300" /> 
 
-<img src = 'https://github.com/MorbeusDesign/MorbeusDesign/blob/main/MyGif_Home.gif' alt = 'Welcome from Morbeus' />
 <a href="https://www.buymeacoffee.com/Morbeus"><img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" align="right" width="300" /></a>&nbsp;
-<img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="300" /> 
 
 <p >
 
