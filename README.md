@@ -2,7 +2,7 @@
 <img src = 'https://github.com/MorbeusDesign/PythonForBeginners/blob/master/friendsAtRestaurant.jpg' alt = 'Welcome to our Restaurant' />
 This Python project is designed to help beginner developers practice their skills by building a simple program that calculates the cost of a lunch at a restaurant, including tip and dividing the total cost by the number of people in a group. The project includes a step-by-step guide to building the program, as well as sample code to help you get started.
 
-## Step-by-Step Guide
+# Step-by-Step Guide
 
 - Step 1: __Ask the User for Input__
 To begin, we need to ask the user for some input to use in our calculations. Specifically, we need to ask how many people are in the group, what the total cost of the lunch was, and what percentage tip they would like to leave. Here's some sample code to get you started:
@@ -45,13 +45,12 @@ print(f"The cost per person is {cost_per_person:.2f}")
 
 This code uses string formatting to display the results to the user with two decimal places. The f-string syntax (the f before the opening quote) allows us to insert variables and expressions directly into the string.
 
-## Conclusion
+# Conclusion
 This project is a simple but effective way for beginner Python developers to practice their skills and build a useful program. By following the step-by-step guide and experimenting with the sample code, you'll learn how to prompt the user for input, perform calculations, and display results. Good luck, and happy coding!
 
-<a href="https://www.buymeacoffee.com/Morbeus"><img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" align="right" width="200" /></a>&nbsp;
-<img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="300" /> 
+<a href="https://www.buymeacoffee.com/Morbeus"><img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" align="right" width="250" /></a>&nbsp;
+<img src="https://github.com/MorbeusDesign/MorbeusDesign/blob/main/Developer.png" align="center" width="350" /> 
 
-<a href="https://www.buymeacoffee.com/Morbeus"><img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" align="right" width="300" /></a>&nbsp;
 
 <p >
 
